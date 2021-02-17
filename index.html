@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- METADATA -->
+    <meta charset="UTF-8">
+    <title>GFX Encyclopedia</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="The Newbie Club Official Encyclopedia of Graphics Designing and Delivering">
+    <meta name="author" content="Natsu Tadama">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="src/icon_512.png"/>
+    <link rel="icon" href="src/icon_512.ico" type="image/x-icon"/>
+
+    <!-- META: INSTALLABLE PWA -->
+    <link rel="manifest" href="main.webmanifest">
+    <meta content='#7378c2' name='theme-color'/>
+    <meta content='#7378c2' name='msapplication-navbutton-color'/>
+    <meta content='yes' name='apple-mobile-web-app-capable'/>
+    <meta content='#7378c2' name='apple-mobile-web-app-status-bar-style'/>
+
+    <!--STYLESHEET-->
+    <!--<link rel="stylesheet" href="https://unpkg.com/docsify@4.11.6/themes/vue.css">-->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+        title="docsify-darklight-theme" type="text/css" />
+
+    <!-- SCRIPTS -->
+    <script src="https://kit.fontawesome.com/b443b76eae.js" crossorigin="anonymous"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+    <!-- CUSTOM STYLING -->
+    <style type="text/css">
+        :root {
+            --docsifytabs-tab-highlight-color: #7378c2;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        .markdown-section em {
+            color: var(--textColor);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app"></div>
+    <script>
+        window.$docsify = {
+            // METADATA AND DOCSIFY CONFIG
+            //----------------------------
+            name: 'GFX Encyclopedia',
+            repo: '',
+            loadNavbar: false,
+            loadSidebar: true,
+            subMaxLevel: 4,
+            auto2top: true,
+            relativePath: true,
+            executeScript: true,
+            mergeNavbar: true,
+            //el: '#app',
+
+            // SITE INTERFACE CONFIG
+            //----------------------------
+            //formatUpdated: '{MM}/{DD} {HH}:{mm}',
+            themeColor: '#7378c2',
+            darklightTheme: {
+                dark: {
+                    accent: '#7378c2'
+                },
+                light: {
+                    accent: '#7378c2'
+                }
+            },
+
+            // PLUGIN CONFIG
+            //----------------------------
+            count: {
+                countable: true,
+                position: 'top',
+                margin: '10px',
+                float: 'left',
+                fontsize: '0.9em',
+                color: 'rgb(90,90,90)',
+                language: 'english',
+                isExpected: true
+            },
+            select: {
+                sync: true,
+                theme: "classic"
+            },
+            autoFooter: {
+                name: 'Natsu Tadama',
+                url: 'https://myanimelist.net/profile/nattadasu',
+                copyYear: '2021',
+                policy: false,
+                terms: false,
+                cookies: false
+            },
+            tabs: {
+                persist: true,
+                sync: true,
+                theme: 'material',
+                tabComments: true,
+                tabHeadings: true
+            },
+            'flexible-alerts': {
+                style: 'callout'
+            }
+        }
+
+        // PWA Support
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+        }
+
+        // Detect as Installable PWA
+    </script>
+    <!-- LIBRARY -->
+    <script src="https://unpkg.com/docsify@4.11.6/lib/docsify.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-sidebarfooter@latest"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+    <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sh.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-xml-doc.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+</body>
+
+</html>
