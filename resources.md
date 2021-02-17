@@ -1,5 +1,8 @@
 # Graphic Designer Resources
-Here is a list of compiled resources which may help you with your graphic designing. *If you have something you wish to add or any links are broken, please contact GFX admin or deputy.*
+Here is a list of compiled resources which may help you with your graphic designing.
+
+> [!NOTE]
+> If you have something you wish to add or any links are broken, please contact GFX admin or deputy, or you can modify this page.
 
 ## BBCode support
 * [BBCode tester](https://infinite-story.com/tools/bbcode.php)
@@ -25,11 +28,11 @@ Here is a list of compiled resources which may help you with your graphic design
 ## Image resources
 * [Free pngs](https://officialpsds.com/)
 * [Compress PNG](https://compresspng.com/)
-* [Compress or Die](https://compress-or-die.com/)~ *highly recommended* when other compression methods fail
+* [Compress or Die](https://compress-or-die.com/) ~ *highly recommended* when other compression methods fail
 * [Render](http://deviantart.com/) ~ *for searching some anime renders*
 
 ## Image storage
-* [Imgur](https://imgur.com) ~ This will give you links needed for bbcode ~ *highly recommended*
+* [Imgur](https://imgur.com) ~ This will give you links needed for BBcode ~ *highly recommended*
 
 ## Photoshop Tips
-* [How to reduce noise in photoshop](https://shootdotedit.com/2018/07/how-to-reduce-noise-in-photoshop/)
+* [How to reduce noise in Photoshop](https://shootdotedit.com/2018/07/how-to-reduce-noise-in-photoshop/)
