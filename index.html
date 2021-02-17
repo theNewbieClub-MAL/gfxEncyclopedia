@@ -7,7 +7,6 @@
     <title>GFX Encyclopedia</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="The Newbie Club Official Encyclopedia of Graphics Designing and Delivering">
-    <meta property="og:description" content="The Newbie Club Official Encyclopedia of Graphics Designing and Delivering">
     <meta name="author" content="Natsu Tadama">
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -37,6 +36,8 @@
     <!-- SCRIPTS -->
     <script src="https://kit.fontawesome.com/b443b76eae.js" crossorigin="anonymous"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 
     <!-- CUSTOM STYLING -->
     <style type="text/css">
@@ -55,7 +56,7 @@
 </head>
 
 <body>
-    <div id="app"></div>
+    <div id="app"><img src="src/bouken.gif" width="200"></div>
     <script>
         window.$docsify = {
             // METADATA AND DOCSIFY CONFIG
@@ -69,6 +70,7 @@
             relativePath: true,
             executeScript: true,
             mergeNavbar: true,
+            notFoundPage: true,
             //el: "#app",
 
             // SITE INTERFACE CONFIG
@@ -124,8 +126,6 @@
         if (typeof navigator.serviceWorker !== "undefined") {
             navigator.serviceWorker.register("sw.js")
         }
-
-        // Detect as Installable PWA
     </script>
     <!-- LIBRARY -->
     <script src="https://unpkg.com/docsify@4.11.6/lib/docsify.js"></script>
@@ -137,12 +137,9 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-sidebarfooter@latest"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
     <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sh.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-xml-doc.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
 </body>
 
 </html>
