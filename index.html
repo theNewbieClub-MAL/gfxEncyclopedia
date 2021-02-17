@@ -7,18 +7,27 @@
     <title>GFX Encyclopedia</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="The Newbie Club Official Encyclopedia of Graphics Designing and Delivering">
+    <meta property="og:description" content="The Newbie Club Official Encyclopedia of Graphics Designing and Delivering">
     <meta name="author" content="Natsu Tadama">
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="src/icon_512.png"/>
     <link rel="icon" href="src/icon_512.ico" type="image/x-icon"/>
+    <meta content="general" name="rating"/>
+    <meta content="us" name="geo.country"/>
+    <meta content="United States" name="geo.placename"/>
+    <meta content="global" name="distribution"/>
+    <meta content="en_US" property="og:locale"/>
+    <meta content="en_US" property="og:locale:alternate"/>
 
     <!-- META: INSTALLABLE PWA -->
     <link rel="manifest" href="main.webmanifest">
-    <meta content='#7378c2' name='theme-color'/>
-    <meta content='#7378c2' name='msapplication-navbutton-color'/>
-    <meta content='yes' name='apple-mobile-web-app-capable'/>
-    <meta content='#7378c2' name='apple-mobile-web-app-status-bar-style'/>
+    <meta content="#7378c2" name="theme-color"/>
+    <meta content="#7378c2" name="msapplication-navbutton-color"/>
+    <meta content="yes" name="apple-mobile-web-app-capable"/>
+    <meta content="#7378c2" name="apple-mobile-web-app-status-bar-style"/>
+    <link href="src/icon_512.png" rel="apple-touch-icon-precomposed"/>
+    <meta content="src/icon_512.png" name="msapplication-TileImage"/>
 
     <!--STYLESHEET-->
     <!--<link rel="stylesheet" href="https://unpkg.com/docsify@4.11.6/themes/vue.css">-->
@@ -51,8 +60,8 @@
         window.$docsify = {
             // METADATA AND DOCSIFY CONFIG
             //----------------------------
-            name: 'GFX Encyclopedia',
-            repo: '',
+            name: "GFX Encyclopedia",
+            repo: "",
             loadNavbar: false,
             loadSidebar: true,
             subMaxLevel: 4,
@@ -60,18 +69,18 @@
             relativePath: true,
             executeScript: true,
             mergeNavbar: true,
-            //el: '#app',
+            //el: "#app",
 
             // SITE INTERFACE CONFIG
             //----------------------------
-            //formatUpdated: '{MM}/{DD} {HH}:{mm}',
-            themeColor: '#7378c2',
+            //formatUpdated: "{MM}/{DD} {HH}:{mm}",
+            themeColor: "#7378c2",
             darklightTheme: {
                 dark: {
-                    accent: '#7378c2'
+                    accent: "#7378c2"
                 },
                 light: {
-                    accent: '#7378c2'
+                    accent: "#7378c2"
                 }
             },
 
@@ -79,12 +88,12 @@
             //----------------------------
             count: {
                 countable: true,
-                position: 'top',
-                margin: '10px',
-                float: 'left',
-                fontsize: '0.9em',
-                color: 'rgb(90,90,90)',
-                language: 'english',
+                position: "top",
+                margin: "10px",
+                float: "left",
+                fontsize: "0.9em",
+                color: "rgb(90,90,90)",
+                language: "english",
                 isExpected: true
             },
             select: {
@@ -92,9 +101,9 @@
                 theme: "classic"
             },
             autoFooter: {
-                name: 'Natsu Tadama',
-                url: 'https://myanimelist.net/profile/nattadasu',
-                copyYear: '2021',
+                name: "Natsu Tadama",
+                url: "https://myanimelist.net/profile/nattadasu",
+                copyYear: "2021",
                 policy: false,
                 terms: false,
                 cookies: false
@@ -102,18 +111,18 @@
             tabs: {
                 persist: true,
                 sync: true,
-                theme: 'material',
+                theme: "material",
                 tabComments: true,
                 tabHeadings: true
             },
-            'flexible-alerts': {
-                style: 'callout'
+            "flexible-alerts": {
+                style: "callout"
             }
         }
 
         // PWA Support
-        if (typeof navigator.serviceWorker !== 'undefined') {
-            navigator.serviceWorker.register('sw.js')
+        if (typeof navigator.serviceWorker !== "undefined") {
+            navigator.serviceWorker.register("sw.js")
         }
 
         // Detect as Installable PWA
