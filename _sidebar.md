@@ -6,5 +6,5 @@
 * Delivery
 
 * [Resources](resources.md)
-* [License](license.md)
+* [License](site-license.md)
 * <div id="mb-footer"></div>
