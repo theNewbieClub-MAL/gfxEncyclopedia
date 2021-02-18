@@ -22,6 +22,7 @@ All edition requests will be added to our card requests spreadsheet.
 ## Requirement for creating cards
 * Allowed file format for card: PNG, APNG (Animated PNG), GIF, JPEG. However, PNG is recommended.
 * Resolution/size for card can not exceed 360x241px with 300dpi.
+* Ratio (rotation) can be landscape, portrait, or square.
 * Card should *at least* contains 3 (three) text fields/spaces:
   * **Edition name**, e.g: School Edition.
   * **Club Name**, e.g: The Newbie Club
@@ -32,23 +33,48 @@ All edition requests will be added to our card requests spreadsheet.
 > [!WARNING]
 > This section can take a lot of data.
 
-### Landscape
-![](https://i.imgur.com/rLwXNgL.png) ![](https://i.imgur.com/LQKUSg5.jpeg) ![](https://i.imgur.com/SAfyT3c.png)
-
-### Portrait
-![](https://cards.nattadasu.my.id/cards/tnc082020-a/nattadasu-1.png) ![](https://cards.nattadasu.my.id/cards/tnc092020-a/V1sion-2.png) ![](https://cards.nattadasu.my.id/cards/tnc082020-a/nattadasu-4.png)
-
-### Animated
-![](https://i.imgur.com/u1dJ76a.gif) ![](https://i.imgur.com/mSeCoEM.gif) ![](https://cards.nattadasu.my.id/cards/tnc042020/nattadasu-A.gif)
-
-### Others
-![](https://i.imgur.com/XRWqia7.png) ![](https://i.imgur.com/vzGhMeb.png) ![](https://cards.nattadasu.my.id/cards/tnc082020-c/Naegi-2.png)
+<table cellspacing="0" cellpadding="0" id="remborder" style="text-align:center;">
+<tbody>
+  <tr>
+    <td colspan="3"><h3 id="landscape" style="margin:0 .6rem;">Landscape</h3></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/rLwXNgL.png" alt=""><br><i>Natsu</i></td>
+    <td><img src="https://i.imgur.com/LQKUSg5.jpeg" alt=""><br><i>Kymikx</i></td>
+    <td><img src="https://i.imgur.com/SAfyT3c.png" alt=""><br><i>EpikS</i></td>
+  </tr>
+  <tr>
+    <td colspan="3"><h3 id="portrait" style="margin:0 .6rem;">Portrait</h3></td>
+  </tr>
+  <tr>
+    <td><img src="https://cards.nattadasu.my.id/cards/tnc082020-a/nattadasu-1.png" alt=""><br><i>Natsu</i></td>
+    <td><img src="https://cards.nattadasu.my.id/cards/tnc092020-a/V1sion-2.png" alt=""><br><i>V1sion</i></td>
+    <td><img src="https://cards.nattadasu.my.id/cards/tnc082020-a/nattadasu-4.png" alt=""><br><i>Natsu</i></td>
+  </tr>
+  <tr>
+    <td colspan="3"><h3 id="animated" style="margin:0 .6rem;">Animated</h3></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/u1dJ76a.gif" alt=""><br><i>Eva</i></td>
+    <td><img src="https://i.imgur.com/mSeCoEM.gif" alt=""><br><i>Annie</i></td>
+    <td><img src="https://cards.nattadasu.my.id/cards/tnc042020/nattadasu-A.gif" alt=""><br><i>Natsu</i></td>
+  </tr>
+  <tr>
+    <td colspan="3"><h3 id="others" style="margin:0 .6rem;">Others</h3></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/XRWqia7.png" alt=""><br><i>Booksy</i></td>
+    <td><img src="https://i.imgur.com/vzGhMeb.png" alt=""><br><i>Chibister</i></td>
+    <td><img src="https://cards.nattadasu.my.id/cards/tnc082020-c/Naegi-2.png" alt=""><br><i>Naegi</i></td>
+  </tr>
+</tbody>
+</table>
 
 ## Resources
 If you are stuck in designing cards, you can visit one of these sites, might helps you!
-* [The Newbie Club Graphic Works Archives](https://drive.google.com/open?id=1OtJ30LCD0vHadYi_w0QXFosRtKvyId5T)
-* [Natsu Cards Collection](https://cards.nattadasu.my.id) &mdash; **Warning! It would take \~200MB of your data for fetching cards.**
-* [Booksy's Cards Collection](https://imgur.com/a/hhblnv5)
+* [The Newbie Club Graphic Works Archives <i class="fas fa-external-link-square-alt"></i>](https://drive.google.com/open?id=1OtJ30LCD0vHadYi_w0QXFosRtKvyId5T)
+* [Natsu's Private Cards Collection <i class="fas fa-external-link-square-alt"></i>](https://cards.nattadasu.my.id) &mdash; **Warning! It would take \~200MB of your data for fetching cards.**
+* [Booksy's Cards Collection for Encyclopedia <i class="fas fa-external-link-square-alt"></i>](https://imgur.com/a/hhblnv5)
 
 ## Footnotes
 <a name="#fn1">1</a>: [The Newbie Club Discussion - FAQs <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/forum/?topicid=1779538)<br/>
