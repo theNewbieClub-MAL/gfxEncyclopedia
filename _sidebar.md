@@ -1,5 +1,6 @@
 * GFX Works
   * [Cards](gfx/cards.md)
+  * [Layout](gfx/layouts.md)
 
 * Automation
   
