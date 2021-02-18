@@ -13,7 +13,7 @@
             "src": "src/icon_512.png",
             "type": "image/png",
             "sizes": "any",
-            "purpose": "maskable"
+            "purpose": "maskable any"
         }
     ],
     "theme_color": "#7378c2"
