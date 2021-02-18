@@ -22,7 +22,7 @@ All edition requests will be added to our card requests spreadsheet.
 ## Requirement for creating cards
 * Allowed file format for card: PNG, APNG (Animated PNG), GIF, JPEG. However, PNG is recommended.
 * Resolution/size for card can not exceed 360x241[px](glosarium.md#pixel) with 300[dpi](glosarium.md#dots-per-inch-dpi).
-* [Ratio (rotation)](glosarium.md#aspect-ratio) can be landscape, portrait, or square.
+* [Ratio (orientation)](glosarium.md#aspect-ratio) can be [landscape](glosarium.md#landscape), [portrait](glosarium.md#portrait), or square.
 * Card should *at least* contains 3 (three) text fields/spaces:
   * **Edition name**, e.g: School Edition.
   * **Club Name**, e.g: The Newbie Club
