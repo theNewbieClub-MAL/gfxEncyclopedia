@@ -16,8 +16,8 @@ When you make a club layout, you are not just making a basic club layout but a c
 ## Requirements for designing layout set
 ### MAL Club Layout
 * Layout only able to make in portrait rotation.
-* Width of layout should be 733px in 300dpi.
-* Recommended resolution is: 733x1000px.
+* Width of layout should be 733[px](glosarium.md#pixel) in 300[dpi](glosarium.md#dots-per-inch-dpi).
+* Recommended resolution is: 733x1000[px](glosarium.md#pixel).
 * Within layout, should contains hyperlinks/buttons to:
   * About us
   * Discord invite link
