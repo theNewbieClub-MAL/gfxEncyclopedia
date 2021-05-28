@@ -38,7 +38,7 @@ Welcome to The Newbie Club (TNC) Official Documentation for Graphic Designing wo
 This site contains different information that will help you in your role as a graphic designer and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
 
 > [!NOTE]
-> Please contact [nattadasu <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/nattadasu) \(<i class="fab fa-discord"></i> nattadasu#3867\) or [Annie <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/Annie_Law) \(<i class="fab fa-discord"></i> Annie-chi#8559\) if you have any issues or questions.
+> Please contact [{{malAuthority.admin.nick}} <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/{{malAuthority.admin.malUsername}}) \(<i class="fab fa-discord"></i> {{malAuthority.admin.discord}}\) or [{{malAuthority.deputy.nick}} <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/{{malAuthority.deputy.malUsername}}) \(<i class="fab fa-discord"></i> {{malAuthority.deputy.discord}}\) if you have any issues or questions.
 
 > [!TIP]
 > This website is open-sourced under [MIT](license) License.

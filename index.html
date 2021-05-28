@@ -120,8 +120,8 @@
                 theme: "classic"
             },
             autoFooter: {
-                name: "Natsu Tadama",
-                url: "https://myanimelist.net/profile/nattadasu",
+                name: "{{author.name}}",
+                url: "https://myanimelist.net/profile/{{author.malUsername}}",
                 copyYear: "2021",
                 policy: false,
                 terms: false,
@@ -157,6 +157,14 @@
     <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sh.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
+    
+    <script>
+        readTextFile(".metadata.json", function(text){
+            var data = JSON.parse(text);
+            console.log(data);
+            w3.displayObject("metadata", data);
+        });
+    </script>
 </body>
 
 </html>
