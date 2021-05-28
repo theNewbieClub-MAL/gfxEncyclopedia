@@ -1,0 +1,23 @@
+{
+    "author": {
+        "name": "Natsu Tadama",
+        "malUsername": "nattadasu",
+        "discord": "nattadasu#3867"
+    },
+    "malAuthority": {
+        "admin": {
+            "nick": "Natsu",
+            "malUsername": "nattadasu",
+            "discord": "nattadasu#3867"
+        },
+        "deputy": {
+            "nick": "Annie",
+            "malUsername": "Annie_Law",
+            "discord": "Annie-chi#8559"
+        }
+    },
+    "definition": {
+        "gfx": "designer",
+        "postman": "deliverer"
+    }
+}
