@@ -36,20 +36,6 @@
     <!-- SCRIPTS -->
     <script src="https://kit.fontawesome.com/b443b76eae.js" crossorigin="anonymous"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
-    <script src="lib/w3.js"></script>
-    <script>
-    function readTextFile(file, callback) {
-        var rawFile = new XMLHttpRequest();
-        rawFile.overrideMimeType("application/json");
-        rawFile.open("GET", file, true);
-        rawFile.onreadystatechange = function() {
-            if (rawFile.readyState === 4 && rawFile.status == "200") {
-                callback(rawFile.responseText);
-            }
-        }
-        rawFile.send(null);
-    }
-    </script>
 
     <!-- CUSTOM STYLING -->
     <style type="text/css">
@@ -105,6 +91,11 @@
 
             // PLUGIN CONFIG
             //----------------------------
+            mustache: {
+                data: [
+                    '.metadata.json'
+                ]
+            },
             count: {
                 countable: true,
                 position: "top",
@@ -146,6 +137,8 @@
     </script>
     <!-- LIBRARY -->
     <script src="https://unpkg.com/docsify@4.11.6/lib/docsify.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-mustache"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
@@ -157,14 +150,7 @@
     <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sh.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
-    
-    <script>
-        readTextFile(".metadata.json", function(text){
-            var data = JSON.parse(text);
-            console.log(data);
-            w3.displayObject("app", data);
-        });
-    </script>
+
 </body>
 
 </html>
