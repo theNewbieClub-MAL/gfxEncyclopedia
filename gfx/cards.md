@@ -39,33 +39,33 @@ All edition requests will be added to our card requests spreadsheet.
     <td colspan="3"><h3 id="landscape" style="margin:0 .6rem;">Landscape</h3></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/rLwXNgL.png" alt=""><br><i>Natsu</i></td>
-    <td><img src="https://i.imgur.com/LQKUSg5.jpeg" alt=""><br><i>Kymikx</i></td>
-    <td><img src="https://i.imgur.com/SAfyT3c.png" alt=""><br><i>EpikS</i></td>
+    <td><img src="src/card/rLwXNgL.png" alt=""><br><i>Natsu</i></td>
+    <td><img src="src/card/LQKUSg5.jpeg" alt=""><br><i>Kymikx</i></td>
+    <td><img src="src/card/SAfyT3c.png" alt=""><br><i>EpikS</i></td>
   </tr>
   <tr>
     <td colspan="3"><h3 id="portrait" style="margin:0 .6rem;">Portrait</h3></td>
   </tr>
   <tr>
-    <td><img src="https://cards.nattadasu.my.id/cards/tnc082020-a/nattadasu-1.png" alt=""><br><i>Natsu</i></td>
-    <td><img src="https://cards.nattadasu.my.id/cards/tnc092020-a/V1sion-2.png" alt=""><br><i>V1sion</i></td>
-    <td><img src="https://cards.nattadasu.my.id/cards/tnc082020-a/nattadasu-4.png" alt=""><br><i>Natsu</i></td>
+    <td><img src="src/card/nattadasu-1.png" alt=""><br><i>Natsu</i></td>
+    <td><img src="src/card/V1sion-2.png" alt=""><br><i>V1sion</i></td>
+    <td><img src="src/card/nattadasu-4.png" alt=""><br><i>Natsu</i></td>
   </tr>
   <tr>
     <td colspan="3"><h3 id="animated" style="margin:0 .6rem;">Animated</h3></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/u1dJ76a.gif" alt=""><br><i>Eva</i></td>
-    <td><img src="https://i.imgur.com/mSeCoEM.gif" alt=""><br><i>Annie</i></td>
-    <td><img src="https://cards.nattadasu.my.id/cards/tnc042020/nattadasu-A.gif" alt=""><br><i>Natsu</i></td>
+    <td><img src="src/card/u1dJ76a.gif" alt=""><br><i>Eva</i></td>
+    <td><img src="src/card/mSeCoEM.gif" alt=""><br><i>Annie</i></td>
+    <td><img src="src/card/nattadasu-A.gif" alt=""><br><i>Natsu</i></td>
   </tr>
   <tr>
     <td colspan="3"><h3 id="others" style="margin:0 .6rem;">Others</h3></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/XRWqia7.png" alt=""><br><i>Booksy</i></td>
-    <td><img src="https://i.imgur.com/vzGhMeb.png" alt=""><br><i>Chibister</i></td>
-    <td><img src="https://cards.nattadasu.my.id/cards/tnc082020-c/Naegi-2.png" alt=""><br><i>Naegi</i></td>
+    <td><img src="src/card/XRWqia7.png" alt=""><br><i>Booksy</i></td>
+    <td><img src="src/card/vzGhMeb.png" alt=""><br><i>Chibister</i></td>
+    <td><img src="src/card/Naegi-2.png" alt=""><br><i>Naegi</i></td>
   </tr>
 </tbody>
 </table>
@@ -77,5 +77,5 @@ If you are stuck in designing cards, you can visit one of these sites, might hel
 * [Booksy's Cards Collection for Encyclopedia <i class="fas fa-external-link-square-alt"></i>](https://imgur.com/a/hhblnv5)
 
 ## Footnotes
-<a name="#fn1">1</a>: [The Newbie Club Discussion - FAQs <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/forum/?topicid=1779538)<br/>
-<a name="#fn2">2</a>: [TY answers regarding cards <i class="fab fa-discord"></i>](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
+<a id="fn1">1</a>: [The Newbie Club Discussion - FAQs <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/forum/?topicid=1779538)<br/>
+<a id="fn2">2</a>: [TY answers regarding cards <i class="fab fa-discord"></i>](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
