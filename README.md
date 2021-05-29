@@ -33,12 +33,12 @@
 </style>
 
 # Welcome!
-Welcome to The Newbie Club (TNC) Official Documentation for Graphic Designing works and Delivery.
+Welcome to The Newbie Club (TNC) Official Documentation for Graphic Designing Works and Delivery.
 
 This site contains different information that will help you in your role as a graphic designer and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
 
 > [!NOTE]
-> Please contact [{{malAuthority.admin.nick}} <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/{{malAuthority.admin.malUsername}}) \(<i class="fab fa-discord"></i> {{malAuthority.admin.discord}}\) or [{{malAuthority.deputy.nick}} <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/{{malAuthority.deputy.malUsername}}) \(<i class="fab fa-discord"></i> {{malAuthority.deputy.discord}}\) if you have any issues or questions.
+> Please contact [{{admin.nick}} <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/{{admin.malUsername}}) \(<i class="fab fa-discord"></i> {{admin.discord}}\) or [{{deputy.nick}} <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/profile/{{deputy.malUsername}}) \(<i class="fab fa-discord"></i> {{deputy.discord}}\) if you have any issues or questions.
 
 > [!TIP]
 > This website is open-sourced under [MIT](license) License.
