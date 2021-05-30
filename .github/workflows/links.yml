@@ -9,6 +9,7 @@ on:
 
 jobs:
   linkChecker:
+    name: Check if links valid
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,7 +17,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.0.8
         with:
-          args: --verbose --no-progress **/*.md **/*.html
+          args: --verbose --no-progress **/*.md **/*.html --accept 200,204,206 --headers "accept=text/html" --exclude="myanimelist.net/profile/"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         

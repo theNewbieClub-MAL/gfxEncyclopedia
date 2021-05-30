@@ -15,6 +15,7 @@ on:
 
 jobs:
   spelling:
+    name: Check Spelling
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
