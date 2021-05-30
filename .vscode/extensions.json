@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "0x3f3f3f3f.docsifybarautogenerater"
+        "0x3f3f3f3f.docsifybarautogenerater",
+        "DavidAnson.vscode-markdownlint",
+        "EditorConfig.EditorConfig"
     ]
 }

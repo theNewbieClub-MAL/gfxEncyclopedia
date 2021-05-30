@@ -6,5 +6,15 @@
         "Tadama",
         "docsifytabs",
         "bbcode"
+    ],
+    "markdownlint.config": {
+        "no-inline-html": false,
+        "single-trailing-newline": false,
+        "no-multiple-blanks": true,
+        "no-blanks-blockquote": false,
+        "no-trailing-punctuation": false
+    },
+    "markdownlint.ignore": [
+        "_sidebar.md"
     ]
 }
