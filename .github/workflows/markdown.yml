@@ -1,5 +1,12 @@
 name: Markdown Checker, and Linter
-on: [push, pull_request]
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   # spelling: 
@@ -32,5 +39,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Linting Markdown
-        uses: articulate/actions-markdownlint@v1
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v1.1.1
+        with:
+          files: .
+          config_file: ".config/markdownlint.yaml"
