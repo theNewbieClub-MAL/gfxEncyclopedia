@@ -35,7 +35,7 @@ Here is a list of compiled resources which may help you with your graphic design
 * [Free pngs](https://officialpsds.com/)
 * [Compress PNG](https://compresspng.com/)
 * [Compress or Die](https://compress-or-die.com/) ~ *highly recommended* when other compression methods fail
-* [Render](http://deviantart.com/) ~ *for searching some anime renders*
+* [Render](https://deviantart.com/) ~ *for searching some anime renders*
 
 ## Image storage
 
