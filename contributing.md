@@ -14,8 +14,8 @@ This project and everyone participating in it is governed by the [Contributor Co
 
 Forking a repository is a simple two-step process. Please follow this instruction below.
 
-1. Navigate back to the repository root ([`nattadasu/tncGfx-Encyclopedia`](https://github.com/nattadasu/tncGfx-Encyclopedia)).
-2. In the top-right corner of the page, click Fork.
+1. Navigate back to the repository root ([`nattadasu/tncGfx-Encyclopedia`](https://github.com/nattadasu/tncGfx-Encyclopedia)). You can pass this step if on Desktop.
+2. In the top-right corner of the page, click Fork.<br/>
    ![Sample](src/forking.png)
 
 ### Cloning repository
