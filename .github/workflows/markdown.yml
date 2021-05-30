@@ -23,16 +23,16 @@ jobs:
   #       task_name: Markdown
   #       config_path: config/spellcheck.yaml
       
-  validate_links:
-    name: Markdown links verifier
-    runs-on: ubuntu-latest
+  # validate_links:
+  #   name: Markdown links verifier
+  #   runs-on: ubuntu-latest
 
-    steps:
-    - name: Checkout the repository
-      uses: actions/checkout@v1
+  #   steps:
+  #   - name: Checkout the repository
+  #     uses: actions/checkout@v1
 
-    - name: Validate links
-      uses: Youssef1313/markdown-links-verifier@v0.1.2
+  #   - name: Validate links
+  #     uses: Youssef1313/markdown-links-verifier@v0.1.2
       
   linting:
     name: Markdown Linter
