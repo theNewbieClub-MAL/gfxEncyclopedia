@@ -1,3 +1,9 @@
+<!--
+**** THIS README IS GENERATED FROM 
+**** https://github.com/othneildrew/Best-README-Template
+**** UNDER MIT LICENSE
+--->
+
 <h1 align="center">The Newbie Club Graphic Designing Encyclopedia</h1>
 
 <p align="center">
@@ -33,7 +39,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -46,43 +51,46 @@ This project contains different information that will help staff as a graphic de
 
 ### Built With
 
-We use [<img src="https://docsify.js.org/_media/icon.svg" height="12"> Docsify](https://docsify.js.org) to make it possible.
+We use [<img src="https://docsify.js.org/_media/icon.svg" height="12"> Docsify](https://docsify.js.org) and [<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="12"> npm](https://npmjs.com) to make it possible.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Below list things you need to use the software and how to install them.
 
-* npm
+* `npm`
   ```sh
   npm install npm@latest -g
+  ```
+* `docsify-cli`
+  ```sh
+  npm install docsify -g
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Fork this repo
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/your_username_/tncGfx-Encyclopedia.git
    ```
-3. Install NPM packages
+3. Install `npm` packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+4. Run Docsify
+   ```sh
+   npm run docsify
    ```
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Please head to [contributing.md](contributing.md) for more detailed information. We use modified [Ryuuganime contribution guideline](https://github.com/ryuuganime/ryuuganime-db/blob/2.0-s/contributing.wiki).
+Please head to [contributing.md](contributing.md) for more detailed information. We use modified [Ryuuganime contribution guideline](https://github.com/ryuuganime/contributing) under [Creative Commmons Zero v1.0 International](https://github.com/ryuuganime/contributing/blob/main/LICENSE).
 
 This project and everyone participating in it is governed by the [Contributor Covenant Code of Conduct version 2.0][conduct]. By participating, you are expected to uphold this code. For detailed information, read [CODE_OF_CONDUCT.md][conduct].
 
@@ -94,26 +102,19 @@ Distributed under the [MIT License][license]. See [`LICENSE`][license] for more 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+### Maintainer
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Natsu Tadama (@nattadasu) — nattadasu@nattadasu.my.id
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+### Organization
 
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+**The Newbie Club**<br>
+[MyAnimeList Club Page][malClub] — [Discord Server][discord]<br>
+contact@thenewbieclub.net
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[malClub]: https://myanimelist.net/clubs.php?cid=70668
+[discord]: https://discord.gg/Q6H6Gf7
 [conduct]: CODE_OF_CONDUCT.md
 [license]: LICENSE

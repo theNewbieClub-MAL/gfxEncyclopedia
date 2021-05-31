@@ -4,6 +4,10 @@ Hello and thanks for taking your time to contribute!
 
 The following is a set of guidelines for contributing to GFX Encyclopedia. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
+## Notice
+
+This contribution guideline taken from modified [Ryuuganime Contribution Guidelines](https://github.com/ryuuganime/contributing) under [Creative Commmons Zero v1.0 International](https://github.com/ryuuganime/contributing/blob/main/LICENSE).
+
 ## Code of conduct
 
 This project and everyone participating in it is governed by the [Contributor Covenant Code of Conduct version 2.0](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to contact@thenewbieclub.net.
@@ -69,3 +73,27 @@ We commonly use those for prefix:
 Got a great idea or found an issue but can not executing as well, or unfamiliar with Git interface? Now, you can relax more because GitHub has a great feature, called [GitHub Issue](https://github.com/nattadasu/tncGfx-Encyclopedia). It helps users to "interact" developers with 0 knowledge of coding.
 
 You can send us an issue for we can look for it.
+
+### Issuing Suggestion
+
+<ol>
+  <li>Open <a href="https://github.com/nattadasu/tncGfc-Encyclopedia/issues">nattadasu/tncGfc-Encyclopedia/issues</a> and tap on New Issue button.</li>
+  <li>In title bar, write:
+    <pre><code>Suggestion: &lt;your comment&gt;</code></pre>
+  </li>
+  <li>Adding additional comment/information would helps us figuring out what you want to suggest with.</li>
+  <li>If you finished writing issue, tap Submit new issue.</li>
+  <li>You should now see an open issue.</li>
+</ol>
+
+### Issuing Problem
+
+<ol>
+  <li>Open <a href="https://github.com/nattadasu/tncGfc-Encyclopedia/issues">nattadasu/tncGfc-Encyclopedia/issues</a> and tap on New Issue button.</li>
+  <li>In title bar, write:
+    <pre><code>&lt;your comment&gt;</code></pre>
+  </li>
+  <li>Adding additional comment/information would helps us figuring out what problem(s) is/are occurred.</li>
+  <li>If you finished writing issue, tap Submit new issue.</li>
+  <li>You should now see an open issue.</li>
+</ol>
