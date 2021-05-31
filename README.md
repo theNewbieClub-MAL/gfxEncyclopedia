@@ -76,7 +76,7 @@ Below list things you need to use the software and how to install them.
 1. Fork this repo
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/tncGfx-Encyclopedia.git
+   git clone https://github.com/<YOUR USERNAME>/tncGfx-Encyclopedia.git
    ```
 3. Install `npm` packages
    ```sh

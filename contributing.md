@@ -70,14 +70,14 @@ We commonly use those for prefix:
 
 ## Issuing Suggestion or Problem
 
-Got a great idea or found an issue but can not executing as well, or unfamiliar with Git interface? Now, you can relax more because GitHub has a great feature, called [GitHub Issue](https://github.com/nattadasu/tncGfx-Encyclopedia). It helps users to "interact" developers with 0 knowledge of coding.
+Got a great idea or found an issue but can not executing as well, or unfamiliar with Git interface? Now, you can relax more because GitHub has a great feature, called [GitHub Issue](https://github.com/nattadasu/tncGfx-Encyclopedia/issues). It helps users to "interact" developers with 0 knowledge of coding.
 
 You can send us an issue for we can look for it.
 
 ### Issuing Suggestion
 
 <ol>
-  <li>Open <a href="https://github.com/nattadasu/tncGfc-Encyclopedia/issues">nattadasu/tncGfc-Encyclopedia/issues</a> and tap on New Issue button.</li>
+  <li>Open <a href="https://github.com/nattadasu/tncGfx-Encyclopedia/issues">nattadasu/tncGfx-Encyclopedia/issues</a> and tap on New Issue button.</li>
   <li>In title bar, write:
     <pre><code>Suggestion: &lt;your comment&gt;</code></pre>
   </li>
@@ -89,7 +89,7 @@ You can send us an issue for we can look for it.
 ### Issuing Problem
 
 <ol>
-  <li>Open <a href="https://github.com/nattadasu/tncGfc-Encyclopedia/issues">nattadasu/tncGfc-Encyclopedia/issues</a> and tap on New Issue button.</li>
+  <li>Open <a href="https://github.com/nattadasu/tncGfx-Encyclopedia/issues">nattadasu/tncGfx-Encyclopedia/issues</a> and tap on New Issue button.</li>
   <li>In title bar, write:
     <pre><code>&lt;your comment&gt;</code></pre>
   </li>
