@@ -25,9 +25,12 @@ All edition requests will be added to our card requests spreadsheet.
 
 ## Requirement for creating cards
 
-* Allowed file format for card: PNG, APNG (Animated PNG), GIF, JPEG. However, PNG is recommended.
-* Resolution/size for card can not exceed 360x241[px](glosarium.md#pixel) with 300[dpi](glosarium.md#dots-per-inch-dpi).
-* [Ratio (orientation)](glosarium.md#aspect-ratio) can be [landscape](glosarium.md#landscape), [portrait](glosarium.md#portrait), or square.
+* Allowed file format for card: PNG, A-PNG (Animated PNG), GIF, JPEG. However, PNG is recommended.
+* Resolution/size for card can not exceed, based on orientation:
+  * **[Landscape][landscape]**: 360x241[px].
+  * **[Portrait][portrait]**: 241x360[px].
+* Recommended to use 300[dpi], minimum 90[dpi].
+* [Ratio (orientation)][ratio] can be [landscape], [portrait], or square (1:1).
 * Card should *at least* contains 3 (three) text fields/spaces:
   * **Edition name**, e.g: School Edition.
   * **Club Name**, e.g: The Newbie Club
@@ -88,3 +91,10 @@ If you are stuck in designing cards, you can visit one of these sites, might hel
 
 <a id="fn1">1</a>: [The Newbie Club Discussion - FAQs <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/forum/?topicid=1779538)<br/>
 <a id="fn2">2</a>: [TY answers regarding cards <i class="fab fa-discord"></i>](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
+
+<!--HYPERLINKS-->
+[landscape]: glosarium.md#landscape
+[dpi]: glosarium.md#dots-per-inch-dpi
+[portrait]: glosarium.md#portrait
+[px]: glosarium.md#pixel
+[ratio]: glosarium.md#aspect-ratio

@@ -15,6 +15,10 @@ When you make a club layout, you are not just making a basic club layout but a c
 
 ## Example of Layout Set
 
+| ![Deer](https://live.staticflickr.com/3503/3968233929_e9da2ba49a_o_d.jpg) |
+| :-: |
+| *Example* |
+
 ## Requirements for designing layout set
 
 ### MAL Club Layout
