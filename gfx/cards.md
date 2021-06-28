@@ -26,11 +26,11 @@ All edition requests will be added to our card requests spreadsheet.
 ## Requirement for creating cards
 
 * Allowed file format for card: PNG, A-PNG (Animated PNG), GIF, and JPEG. However, PNG is recommended.
+* [Ratio (orientation)][ratio] can be [landscape], [portrait], or square (1:1).
 * Resolution/size for card can not exceed, based on orientation:
   * **[Landscape][landscape]**: 360x241[px].
   * **[Portrait][portrait]**: 241x360[px].
 * Recommended to use 300[dpi], minimum 90[dpi].
-* [Ratio (orientation)][ratio] can be [landscape], [portrait], or square (1:1).
 * Card should *at least* contains 3 (three) text fields/spaces:
   * **Edition name**, e.g: School Edition.
   * **Club Name**, e.g: The Newbie Club
