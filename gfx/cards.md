@@ -25,7 +25,7 @@ All edition requests will be added to our card requests spreadsheet.
 
 ## Requirement for creating cards
 
-* Allowed file format for card: PNG, A-PNG (Animated PNG), GIF, JPEG. However, PNG is recommended.
+* Allowed file format for card: PNG, A-PNG (Animated PNG), GIF, and JPEG. However, PNG is recommended.
 * Resolution/size for card can not exceed, based on orientation:
   * **[Landscape][landscape]**: 360x241[px].
   * **[Portrait][portrait]**: 241x360[px].
@@ -93,8 +93,8 @@ If you are stuck in designing cards, you can visit one of these sites, might hel
 <a id="fn2">2</a>: [TY answers regarding cards <i class="fab fa-discord"></i>](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
 
 <!--HYPERLINKS-->
-[landscape]: glosarium.md#landscape
 [dpi]: glosarium.md#dots-per-inch-dpi
+[landscape]: glosarium.md#landscape
 [portrait]: glosarium.md#portrait
 [px]: glosarium.md#pixel
 [ratio]: glosarium.md#aspect-ratio
