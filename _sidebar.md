@@ -1,4 +1,5 @@
-* GFX Works
+* Designing
+  * [Banners](gfx/banners.md)
   * [Cards](gfx/cards.md)
   * [Layout](gfx/layouts.md)
 
