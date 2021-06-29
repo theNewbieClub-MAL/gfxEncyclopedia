@@ -28,14 +28,18 @@ All edition requests will be added to our card requests spreadsheet.
 * Allowed file format for card: PNG, A-PNG (Animated PNG), GIF, and JPEG. However, PNG is recommended.
 * [Ratio (orientation)][ratio] can be [landscape], [portrait], or square (1:1).
 * Resolution/size for card can not exceed, based on orientation:
-  * **[Landscape][landscape]**: 360x241[px].
-  * **[Portrait][portrait]**: 241x360[px].
+  * **[Landscape][landscape]**: 360x240[px] (3:2).
+  * **[Portrait][portrait]**: 240x360[px] (2:3).
+  * Square: 240x240[px] (1:1).
+  * ***Note***:
+    1. You can use higher resolution, but we might ask you to resize based on rules.
+    2. You can make a card below recommended/required resolution.
 * Recommended to use 300[dpi], minimum 90[dpi].
 * Card should *at least* contains 3 (three) text fields/spaces:
-  * **Edition name**, e.g: School Edition.
-  * **Club Name**, e.g: The Newbie Club
-    * You are allowed to use abbreviation of it, TNC.
-  * **Username/Nickname**, This will be where you write the names of people who requested cards from the edition before delivering them.
+  1. **Edition name**, e.g: "School Edition."
+  2. **Club Name**, e.g: "The Newbie Club."
+     * You are allowed to use abbreviation of it, "TNC."
+  3. **Username/Nickname**, This will be where you write the names of people who requested cards from the edition before delivering them.
 
 ## Examples of card
 
