@@ -93,8 +93,8 @@ If you are stuck in designing cards, you can visit one of these sites, might hel
 
 ## Footnotes
 
-<a id="fn1">1</a>: [The Newbie Club Discussion - FAQs <i class="fas fa-external-link-square-alt"></i>](https://myanimelist.net/forum/?topicid=1779538)<br/>
-<a id="fn2">2</a>: [TY answers regarding cards <i class="fab fa-discord"></i>](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
+<div class="footnote"><a id="fn1">1</a>: <a href="https://myanimelist.net/forum/?topicid=1779538">The Newbie Club Discussion - FAQs <i class="fas fa-external-link-square-alt"></i></a><br/>
+<a id="fn2">2</a>: <a href="https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154">TY answers regarding cards <i class="fab fa-discord"></i></a></div>
 
 <!--HYPERLINKS-->
 [dpi]: glosarium.md#dots-per-inch-dpi

@@ -138,7 +138,7 @@ Headlines in English often use a set of grammatical rules known as *headlinese*,
 
 ## Footnotes
 
-<a id="fn1">1</a>: [Headline - Wikipedia (English) <i class="fas fa-external-link-square-alt"></i>](https://en.wikipedia.org/wiki/Headline)
+<div class="footnote"><p><a id="fn1">1</a>: <a href="https://en.wikipedia.org/wiki/Headline">Headline - Wikipedia (English) <i class="fas fa-external-link-square-alt"></i></a></p></div>
 
 <!--HYPERLINKS-->
 [dpi]: glosarium.md#dots-per-inch-dpi
