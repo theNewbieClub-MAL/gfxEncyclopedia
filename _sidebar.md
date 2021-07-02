@@ -7,7 +7,8 @@
   
 * Delivery
 
-* [Resources](resources.md)
-* [Glosarium](glosarium.md)
-* [License](site-license.md)
+* Miscellaneous
+  * [Resources](resources.md)
+  * [Glosarium](glosarium.md)
+  * [License and Code of Conduct](site-license.md)
 * <div id="mb-footer"></div>
