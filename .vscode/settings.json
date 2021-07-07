@@ -12,7 +12,8 @@
         "single-trailing-newline": false,
         "no-multiple-blanks": true,
         "no-blanks-blockquote": false,
-        "no-trailing-punctuation": false
+        "no-trailing-punctuation": false,
+        "ol-prefix": false
     },
     "markdownlint.ignore": [
         "_sidebar.md"
