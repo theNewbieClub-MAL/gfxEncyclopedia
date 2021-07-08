@@ -4,7 +4,7 @@
 
 > Hold on… Why do you need to export data to Excel? Why not do this heck on Excel instead?
 >
-> Have you read the FAQ before? If not, please read it first, so you can understand. [Click here to jump](prerequisites/). Also, we want to export to Excel so we can “convert” it to Adobe Photoshop Data Variable CSV file without facing compatibility issues.
+> Have you read the FAQ before? If not, please read it first, so you can understand. [Click here to jump](prerequisites/readme.md). Also, we want to export to Excel so we can “convert” it to Adobe Photoshop Data Variable CSV file without facing compatibility issues.
 
 1. Make sure you have opened one of the datasheets.
 
@@ -149,4 +149,4 @@
 6. Check your folder!
 
 > [!TIP]
-> Most of card designer are using `Nickname - #CardNo.png` file hierarchy format. If you are using `Username - #CardNo.png` or `Username/Username - #CardNo.png`, please continue to [rename section](rename/).
+> Most of card designer are using `Nickname - #CardNo.png` file hierarchy format. If you are using `Username - #CardNo.png` or `Username/Username - #CardNo.png`, please continue to [rename section](rename/readme.md).

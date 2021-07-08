@@ -19,18 +19,18 @@
   * [Signatures](gfx/signatures.md)
 
 * Tutorial <!-- /tutorial -->
-  * [Automation](tutorial/automation/)
-    * [Prerequisites](tutorial/automation/prerequisites/)
-    * [Copying Data to Microsoft Access](tutorial/automation/copy_data/)
+  * [Automation](tutorial/automation/readme.md)
+    * [Prerequisites](tutorial/automation/prerequisites/readme.md)
+    * [Copying Data to Microsoft Access](tutorial/automation/copy_data/readme.md)
       * [Using Google Sheet method](tutorial/automation/copy_data/google_sheet.md)
       * [Using Microsoft Excel method](tutorial/automation/copy_data/office_excel.md)
-    * [Adding Data to PSD](tutorial/automation/data_input/)
-    * [Rename Automation](tutorial/automation/rename/)
-      * [Rename files](tutorial/automation/rename/file_rename/)
-      * [Create folder and move files under same name](rename/create_folder/)
-    * [Troubleshooting](tutorial/automation/troubleshooting/)
+    * [Adding Data to PSD](tutorial/automation/data_input/readme.md)
+    * [Rename Automation](tutorial/automation/rename/readme.md)
+      * [Rename files](tutorial/automation/rename/file_rename/readme.md)
+      * [Create folder and move files under same name](rename/create_folder/readme.md)
+    * [Troubleshooting](tutorial/automation/troubleshooting/readme.md)
       * [Unable to Convert PSD](tutorial/automation/troubleshooting/photoshop/cant_export.md)
-  * [Layout Slicing](tutorial/layout_slicing/)
+  * [Layout Slicing](tutorial/layout_slicing/readme.md)
 
 * Delivery <!-- /delivery -->
   * [1. Server/Image Hosting](delivery/hosting.md)
