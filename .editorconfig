@@ -8,3 +8,6 @@ root = false
 
 [**.{md,yaml,yml}]
 indent_size = 2
+
+[LICENSE]
+end_of_line = crlf
