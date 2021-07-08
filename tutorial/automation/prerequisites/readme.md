@@ -6,7 +6,7 @@ Before we proceed with our first step, we need to prepare some important applica
 
 * [Windows Command Prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089), [Microsoft PowerShell](https://github.com/PowerShell/PowerShell), or [Shell Script](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) supported bash terminal.
 * [Microsoft Office Access](https://www.office.com/) (or any program that has backward compatibility with Access database file, like [LibreOffice](https://www.libreoffice.org/) Base)
-* [Microsoft Office Excel](https://www.office.com/) **OR** [Google Sheets](https://docs.google.com/spreadsheet)
+* [Microsoft Office Excel](https://www.office.com/) **OR** [Google Sheets](https://docs.google.com/spreadsheets)
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) (any version that supports data variables feature)
 * [Advanced File Renamer](https://www.advancedrenamer.com/)
 * [XnView XnConvert](https://www.xnview.com/en/xnconvert/)
