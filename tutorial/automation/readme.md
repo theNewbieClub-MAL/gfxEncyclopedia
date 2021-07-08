@@ -5,8 +5,8 @@
 ## Table of content
 
 * [Prerequisites](prerequisites/readme.md)
+  * Getting Started
   * Disclaimer
-  * Emoji legends
   * FAQ
 * [Copying Data to Microsoft Access](copy_data/readme.md)
   * [Using Google Sheet method](copy_data/google_sheet.md)
