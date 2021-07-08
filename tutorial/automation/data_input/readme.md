@@ -79,7 +79,7 @@
    > [!NOTE]
    > An asterisk ( * ) will appear next to the layer name in the Layers text field.
 
-   > [!TIPS]
+   > [!TIP]
    > If you choose an existing variable to link to, a link icon will appear next to the Name text field.
 
 4. Repeat this process for another card design.
@@ -104,10 +104,10 @@
    > [!NOTE]
    > You will see the Variables dialog box get populated with variable data. Now the data variables are bound together and given their corresponding values.
 
-   > [!TIPS]
+   > [!TIP]
    > You can then select the Preview checkbox and then click the right and left arrows near the Data Set: text field to preview the result on the canvas.
 
-   > [!TIPS]
+   > [!TIP]
    > You can also preview the data set by selecting Image > Apply Data Set and select a data set that you would like to preview. If you click on the Apply button, you will change the current layer.
 
 3. Repeat this process for another card design.
@@ -119,7 +119,7 @@
 
 1. Choose `File > Export > Data Sets as Files...`. In the dialog box, select your destination folder and file naming options and then click OK to export each data set "record" as an individual Photoshop psd file.
 
-> [!TIPS]
+> [!TIP]
 > For naming, please to use this method for better accessibility:
 >
 > <hr/>
