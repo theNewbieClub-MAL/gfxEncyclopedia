@@ -27,7 +27,7 @@
     * [Adding Data to PSD](tutorial/automation/data_input/readme.md)
     * [Rename Automation](tutorial/automation/rename/readme.md)
       * [Rename files](tutorial/automation/rename/file_rename/readme.md)
-      * [Create folder and move files under same name](rename/create_folder/readme.md)
+      * [Create folder and move files under same name](tutorial/automation/rename/create_folder/readme.md)
     * [Troubleshooting](tutorial/automation/troubleshooting/readme.md)
       * [Unable to Convert PSD](tutorial/automation/troubleshooting/photoshop/cant_export.md)
   * [Layout Slicing](tutorial/layout_slicing/readme.md)
