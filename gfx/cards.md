@@ -10,7 +10,7 @@ We don't have a definite answer on how it became a thing but it's in a lot of ot
 This is just one of them.
 
 Graphic designers use programs such as Adobe Photoshop, Krita, GIMP, and Paint.NET (or any editing
-program <!--including Microsoft PowerPoint :o-->) to make cards.
+program<!--including Microsoft PowerPoint :o-->) to make cards.
 
 Members collect them for these vary reasons:
 
@@ -40,9 +40,9 @@ All edition requests will be added to our card requests spreadsheet.
   * **[Landscape][landscape]**: 360x240[px] (3:2).
   * **[Portrait][portrait]**: 240x360[px] (2:3).
   * Square: 240x240[px] (1:1).
-  * ***Note***:
-    1. You can use higher resolution, but we might ask you to resize based on rules.
-    2. You can make a card below recommended/required resolution.
+    > [!NOTE]
+    > 1. You can use higher resolution, but we might ask you to resize based on rules
+    > 2. You can make a card below recommended/required resolution.
 * Recommended to use 300[dpi], minimum 90[dpi].
 * Card should *at least* contains 3 (three) text fields/spaces:
   1. **Edition name**, e.g: "School Edition."
