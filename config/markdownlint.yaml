@@ -17,3 +17,10 @@ MD026: false
 
 # MD029/ol-prefix - Ordered list item prefix
 MD029: false
+
+# MD013/line-length - Line length
+MD013:
+  # Number of characters
+  line_length: 100
+  # Include tables
+  tables: false

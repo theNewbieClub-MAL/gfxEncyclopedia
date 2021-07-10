@@ -3,7 +3,8 @@
 Here is a list of compiled resources which may help you with your graphic designing.
 
 > [!NOTE]
-> If you have something you wish to add or any links are broken, please contact GFX admin or deputy, or you can modify this page.
+> If you have something you wish to add or any links are broken, please contact GFX admin or deputy,
+> or you can modify this page.
 
 ## BBCode support
 
@@ -19,22 +20,26 @@ Here is a list of compiled resources which may help you with your graphic design
 
 ## Fonts
 
-* [How to install fonts without administrator access](https://woorkup.com/install-fonts-without-administrator-access/)
+* [How to install fonts without administrator access
+  ](https://woorkup.com/install-fonts-without-administrator-access/)
 * [Adobe fonts](https://fonts.adobe.com/)
 * [Dafont](https://www.dafont.com/)
-* [Fancy text generator](https://www.fancytextguru.com/) ~ might want to use this for delivery codes.
+* [Fancy text generator](https://www.fancytextguru.com/) ~ might want to use this for
+  delivery codes.
 * [Yaytext](https://yaytext.com/small-caps/) ~ might want to use this for delivery codes
 
 ## GIF
 
 * [EZGIF editor/creator](https://ezgif.com/) ~ *highly recommended*
-* [Picgifs](https://www.picgifs.com/mini-graphics/arrows) ~ useful mini graphics you could use for delivery codes
+* [Picgifs](https://www.picgifs.com/mini-graphics/arrows) ~ useful mini graphics you could use for
+  delivery codes
 
 ## Image resources
 
 * [Free pngs](https://officialpsds.com/)
 * [Compress PNG](https://compresspng.com/)
-* [Compress or Die](https://compress-or-die.com/) ~ *highly recommended* when other compression methods fail
+* [Compress or Die](https://compress-or-die.com/) ~ *highly recommended* when other compression
+  methods fail
 * [Render](https://deviantart.com/) ~ *for searching some anime renders*
 
 ## Image storage
@@ -43,4 +48,5 @@ Here is a list of compiled resources which may help you with your graphic design
 
 ## Photoshop Tips
 
-* [How to reduce noise in Photoshop](https://shootdotedit.com/2018/07/how-to-reduce-noise-in-photoshop/)
+* [How to reduce noise in Photoshop
+  ](https://shootdotedit.com/2018/07/how-to-reduce-noise-in-photoshop/)

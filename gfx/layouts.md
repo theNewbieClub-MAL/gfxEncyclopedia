@@ -2,10 +2,15 @@
 
 ## How club layouts work
 
-The Newbie Club, like most MAL clubs, will have a layout on our MyAnimeList homepage. This acts as a welcome and directory/index of club to people coming into the club space.
-The theme for these layouts changes frequently, *so we always need new layouts made*, based on the time of year i.e., Christmas, Halloween, or to show a certain anime/season… such as this summer layout shown below. Changing the layout regularly helps keep the club face fresh and exciting.
+The Newbie Club, like most MAL clubs, will have a layout on our MyAnimeList homepage. This acts as a
+welcome and directory/index of club to people coming into the club space.
 
-When you make a club layout, you are not just making a basic club layout but a complete matching set of:
+The theme for these layouts changes frequently, *so we always need new layouts made*, based on the
+time of year i.e., Christmas, Halloween, or to show a certain anime/season. Changing the layout
+regularly helps keep the club face fresh and exciting.
+
+When you make a club layout, you are not just making a basic club layout but a complete
+matching set of:
 
 * [MAL Club Layout](#mal-club-layout),
 * [MAL Club Profile Picture](#mal-club-profile-picture),
@@ -16,8 +21,8 @@ When you make a club layout, you are not just making a basic club layout but a c
 ## Example of Layout Set
 
 | ![Deer](https://live.staticflickr.com/3503/3968233929_e9da2ba49a_o_d.jpg) |
-| :-: |
-| *Example* |
+| :-----------------------------------------------------------------------: |
+|                                 *Example*                                 |
 
 ## Requirements for designing layout set
 

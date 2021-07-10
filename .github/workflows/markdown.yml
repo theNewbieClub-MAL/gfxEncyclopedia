@@ -15,7 +15,6 @@ jobs:
     
     steps:
       - name: markdownlint-cli
-        uses: nosborn/github-action-markdown-cli@v2
-        with:
-          files: "**/*.md"
-          config_file: ".config/markdownlint.yaml"
+        run: |
+          npm install -g markdownlint-cli
+          markdownlint **/*.md -c config/markdownlint.yaml -i _*.md

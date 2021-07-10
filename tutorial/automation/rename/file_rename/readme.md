@@ -1,7 +1,9 @@
 # Renaming File Automatically
 
 > [!WARNING]
-> This method may seem complicated to some, but ~~it is worth it~~ if you had categorized the cards when exporting data variables (and converted to .png) per design previously, this section may be easier to do.
+> This method may seem complicated to some, but ~~it is worth it~~ if you had categorized the cards
+> when exporting data variables (and converted to .png) per design previously, this section may be
+> easier to do.
 
 > [!ATTENTION]
 > Do this method one-by-one design.
@@ -17,9 +19,11 @@
 
 4. Once a list box appears:
 
-   * If using Excel: restore the Excel window, sort Username alphabetically (A-Z) and sort it again on 1.
+   * If using Excel: restore the Excel window, sort Username alphabetically (A-Z) and sort it again
+     on 1.
 
-   * If using other: open CSV of the current design, make sure if the order is sorted alphabetically ascending (A-Z)
+   * If using other: open CSV of the current design, make sure if the order is sorted alphabetically
+     ascending (A-Z)
 
 5. Copy usernames to the list box on the Advanced Renamer app.
 

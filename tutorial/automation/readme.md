@@ -1,6 +1,7 @@
 # Card Creation Automation
 
-> Made ~~with love~~ by [Natsu Tadama (@nattadasu)](https://myanimelist.net/profile/nattadasu) with technical language but also casual <sub>bruh</sub> and also colorblind-friendly!
+> Made ~~with love~~ by [Natsu Tadama (@nattadasu)](https://myanimelist.net/profile/nattadasu) with
+> technical language but also casual <sub>bruh</sub> and also colorblind-friendly!
 
 ## Table of content
 
@@ -18,7 +19,8 @@
   * Export data sets and convert to PNG file
 * [Rename Automation](tutorial/automation/rename/readme.md)
   * [Rename files](tutorial/automation/rename/file_rename/readme.md)
-  * [Create folder and move files under same name](tutorial/automation/rename/create_folder/readme.md)
+  * [Create folder and move files under same name
+    ](tutorial/automation/rename/create_folder/readme.md)
     * Compatibility notice (comparison)
     * Using Windows' Command Prompt batch file
     * Using Linux/macOS (or any Bash shell script supported) Bash

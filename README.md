@@ -20,7 +20,7 @@
   <br />
   <a href="https://gfx.thenewbieclub.net"><strong>Explore the docs »</strong></a>
   
-</p><br>
+</p><br />
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -48,13 +48,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Currently, GFX section on [The Newbie Club][malClub] use Google Docs for the documentations. However, due to limitation on the software itself, we decided to make new one and made our documentation to be public.
+Currently, GFX section on [The Newbie Club][malClub] use Google Docs for the documentations.
+However, due to limitation on the software itself, we decided to make new one and made our
+documentation to be public.
 
-This project contains different information that will help staff as a graphic designer and/or card deliverer for [The Newbie Club][malClub].
+This project contains different information that will help staff as a graphic designer and/or card
+deliverer for [The Newbie Club][malClub].
 
 ### Built With
 
-We use [<img src="https://docsify.js.org/_media/icon.svg" height="12"> Docsify](https://docsify.js.org) and [<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="12"> npm](https://npmjs.com) to make it possible.
+We use
+[<img src="https://docsify.js.org/_media/icon.svg" height="12"> Docsify](https://docsify.js.org) and
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="12"> npm](https://npmjs.com)
+to make it possible.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -66,10 +72,13 @@ To get a local copy up and running follow these simple example steps.
 Below list things you need to use the software and how to install them.
 
 * `npm`
+
   ```sh
   npm install npm@latest -g
   ```
+
 * `docsify-cli`
+
   ```sh
   npm install docsify -g
   ```
@@ -78,14 +87,19 @@ Below list things you need to use the software and how to install them.
 
 1. Fork this repo
 2. Clone the repo
+
    ```sh
    git clone https://github.com/<YOUR USERNAME>/tncGfx-Encyclopedia.git
    ```
+
 3. Install `npm` packages
+
    ```sh
    npm install
    ```
+
 4. Run Docsify
+
    ```sh
    npm run docsify
    ```
@@ -93,9 +107,13 @@ Below list things you need to use the software and how to install them.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Please head to [contributing.md](contributing.md) for more detailed information. We use modified [Ryuuganime contribution guideline](https://github.com/ryuuganime/contributing) under [Creative Commmons Zero v1.0 International](https://github.com/ryuuganime/contributing/blob/main/LICENSE).
+Please head to [contributing.md](contributing.md) for more detailed information. We use modified
+[Ryuuganime contribution guideline](https://github.com/ryuuganime/contributing) under
+[Creative Commmons Zero v1.0 International](https://github.com/ryuuganime/contributing/blob/main/LICENSE).
 
-This project and everyone participating in it is governed by the [Contributor Covenant Code of Conduct version 2.0][conduct]. By participating, you are expected to uphold this code. For detailed information, read [CODE_OF_CONDUCT.md][conduct].
+This project and everyone participating in it is governed by the
+[Contributor Covenant Code of Conduct version 2.0][conduct]. By participating, you are expected to
+uphold this code. For detailed information, read [CODE_OF_CONDUCT.md][conduct].
 
 <!-- LICENSE -->
 ## License

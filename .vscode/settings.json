@@ -16,6 +16,19 @@
         "ol-prefix": false
     },
     "markdownlint.ignore": [
-        "_sidebar.md"
-    ]
+        "_sidebar.md",
+        "_404.md"
+    ],
+    "editor.rulers": [
+        80
+    ],
+    "prettier.printWidth": 100,
+    "prettier.endOfLine": "auto",
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.rulers": [
+            100
+        ],
+    }
 }
