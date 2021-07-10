@@ -261,5 +261,5 @@ Source: Native
       more dot.
 
 Notice that your file name format is following this:
-<Username> - <CardId> [Specification].<FileFormat>
+`<Username> - <CardId> [Specification].<FileFormat>`
 Dash between username and other text is required. Otherwise, you’ll get bonked by system.
