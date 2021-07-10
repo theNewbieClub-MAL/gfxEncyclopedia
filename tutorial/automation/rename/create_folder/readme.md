@@ -77,7 +77,7 @@ Source: Virtual machine
 Description:\
 Use any virtual machines app (or WINE or Codeweavers CrossOver) to run Windows Command Prompt.
 
-<h5 id="bat-BSD">BSD/\*nix</h5>
+<h5 id="bat-BSD">BSD/*nix</h5>
 
 Status: **👥 Need to be installed manually (a client) first from a 3rd party**\
 Source: Virtual machine
@@ -148,7 +148,7 @@ Source: [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/release
 Description:\
 Download LTS release.
 
-<h5 id="ps1-BSD">BSD/\*nix</h5>
+<h5 id="ps1-BSD">BSD/*nix</h5>
 
 Status: **📥Need to be installed manually first from the 1st party.** /
 **👥 Need to be installed manually (a client) first from a 3rd party**\
@@ -206,7 +206,7 @@ Source: Native
 Status: **✔ Supported**\
 Source: Native
 
-<h5 id="sh-BSD">BSD/\*nix</h5>
+<h5 id="sh-BSD">BSD/*nix</h5>
 
 Status: **✔ Supported**\
 Source: Native
