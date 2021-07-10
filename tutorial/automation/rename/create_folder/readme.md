@@ -216,10 +216,34 @@ Source: Native
 Status: **✔ Supported**\
 Source: Native
 
-## Using BAT/CMD file format
+## Using Batch file format
 
 1. Create a new bat (`.bat`) file with `notepad` by copying those line of codes.
-   [](tutorial/automation/rename/create_folder/create_folder.bat ':include :type=code batch')
+
+   ```batch
+    @echo off
+    setlocal EnableDelayedExpansion
+    rem Change to working directory.
+    pushd "E:\5"
+    rem Don't forget to modify filetype below this comment
+    rem I mean,   vvv that one.
+    FOR %%G IN (*.png) DO (
+        rem edit  ^^^ this first lol
+        FOR /F "tokens=1 delims= " %%a IN ("%%G") do (
+            set "outFolder=%%a"
+            for /D %%i in (*.*) do (
+                for /F "tokens=1 delims= " %%b IN ("%%i") do (
+                    if "%%a"=="%%b" set "outFolder=%%i"
+                )
+            )
+            if not exist "!outfolder!" md "!outfolder!"
+            move "%%G" "!outfolder!"
+        )
+    )
+    popd
+    pause
+   ```
+
    Save those lines of code as `.bat` file to working directory. If applicable, use UTF-8 encoding
    with CRLF line ending for the script itself.
 
@@ -230,11 +254,32 @@ Source: Native
 
 4. Run the script.
 
-## Using PS1 file format
+## Using PowerShell file format
 
 1. Create a new PowerShell file (.ps1) file with `notepad`, `gedit`, or any text editor (preferably
    code editor), and copy-paste this script:
-   [](tutorial/automation/rename/create_folder/create_folder.ps1 ':include :type=code ps1')
+
+   ```powershell
+    # Change to working directory
+    $dir = "E:\5"
+
+    $filelist = @(Get-ChildItem $dir)
+
+    ForEach ($file in $filelist){
+        # Get the Username part
+        $folder = $file.Name.Split("-")[0]
+
+        #Test if the folder exists.
+        Set-Location ($dir+'\'+$folder)
+
+        #If there is no folder, create a folder.
+        if(!$?){ mkdir ($dir+'\'+$folder) }
+
+        #Move items, keeping the same name.
+        Move-Item $file.FullName ($dir+'\'+$folder+'\'+$file.Name)
+    }
+   ```
+
    Save those lines of code as a `.ps1` file to the working directory. If applicable, use UTF-8
    encoding with LF line ending for the script itself.
 
@@ -243,11 +288,21 @@ Source: Native
 
 3. Run the script.
 
-## Using SH file format
+## Using Shell file format
 
 1. Create a new shell (.sh) file with `notepad`, `gedit`, or any text editor (preferably code
    editor), and copy-paste this script:
-   [](tutorial/automation/rename/create_folder/create_folder.sh ':include :type=code sh')
+
+   ```shell
+    #Change `.png` to your working extension file, like `.psd`
+    for f in *.png; do
+        name=`echo "$f"|sed 's/ -.*//'`
+        dir="$name"
+        mkdir -p "$dir"
+        mv "$f" "$dir"
+    done
+   ```
+
    Save those lines of code as `.sh` file to the working directory. If applicable, use UTF-8
    encoding with LF line ending for the script itself.
 
