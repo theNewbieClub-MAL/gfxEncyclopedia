@@ -16,3 +16,7 @@ max_line_length = 100
 
 [LICENSE]
 end_of_line = crlf
+
+# Avoid unnecessary compatibility issue
+[**.{bat,ps1}]
+end_of_line = crlf
