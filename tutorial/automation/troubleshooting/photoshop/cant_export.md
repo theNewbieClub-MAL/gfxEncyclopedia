@@ -2,9 +2,9 @@
 
 ## Known issue
 
-Converter is unable to convert PSD woth non rasterizef layers. Issue found om CS version of Photoshop. CC version may also have this issue.
+Converter is unable to convert PSD with non rasterized layers. Issue found on CS version of Photoshop. CC version may also have this issue.
 
-## Troubleshooting 1: Rasterize all objects
+## Troubleshooting 1: rasterize all objects
 
 1. Press `F7` to show the Photoshop layers panel.
 2. Click a vector layer in the layers panel.
