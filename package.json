@@ -14,5 +14,8 @@
   "devDependencies": {
     "markdownlint-cli": "^0.27.1",
     "vercel": "^23.0.1"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
   }
 }
