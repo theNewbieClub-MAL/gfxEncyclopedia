@@ -1,13 +1,19 @@
 {
   "name": "tncgfx-encyclopedia",
   "version": "1.0.0",
-  "main": "main.js",
   "scripts": {
-    "start": "docsify serve"
+    "host": "docsify serve",
+    "lint": "markdownlint **/*.md -c config/markdownlint.yaml -i _*.md -i node_modules",
+    "proofread": "npm run lint && npm run host"
   },
   "keywords": [
     "Encyclopedia"
   ],
   "author": "Natsu Tadama",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "docsify": "^4.12.1",
+    "markdownlint-cli": "^0.27.1",
+    "vercel": "^23.0.1"
+  }
 }
