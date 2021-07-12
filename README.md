@@ -1,5 +1,5 @@
 <!--
-**** THIS README IS GENERATED FROM 
+**** THIS README IS GENERATED FROM
 **** https://github.com/othneildrew/Best-README-Template
 **** UNDER MIT LICENSE
 --->
@@ -19,7 +19,7 @@
   <br />
   <br />
   <a href="https://gfx.thenewbieclub.net"><strong>Explore the docs »</strong></a>
-  
+
 </p><br />
 
 <!-- TABLE OF CONTENTS -->
@@ -57,10 +57,9 @@ deliverer for [The Newbie Club][malClub].
 
 ### Built With
 
-We use
-[<img src="https://docsify.js.org/_media/icon.svg" height="12"> Docsify](https://docsify.js.org) and
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="12"> npm](https://npmjs.com)
-to make it possible.
+We use [`docsify`](https://docsify.js.org), [`npm`](https://npmjs.com),
+[`markdownlint`](https://github.com/igorshubovych/markdownlint-cli), and
+[Vercel](https://vercel.com) to make it possible.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -75,12 +74,6 @@ Below list things you need to use the software and how to install them.
 
   ```sh
   npm install npm@latest -g
-  ```
-
-* `docsify-cli`
-
-  ```sh
-  npm install docsify -g
   ```
 
 ### Installation
@@ -98,11 +91,29 @@ Below list things you need to use the software and how to install them.
    npm install
    ```
 
-4. Run Docsify
+4. Run `docsify`
 
    ```sh
-   npm run docsify
+   npm run host
    ```
+
+### Development
+
+1. Check if node dependencies up-to-date
+
+2. Run `markdownlint`
+
+   * Only linting:
+
+     ```sh
+     npm run lint
+     ```
+
+   * Linting + preview `docsify`
+
+     ```sh
+     npm run proofread
+     ```
 
 <!-- CONTRIBUTING -->
 ## Contributing
