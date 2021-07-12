@@ -41,8 +41,10 @@ All edition requests will be added to our card requests spreadsheet.
   * **[Portrait][portrait]**: 240x360[px] (2:3).
   * Square: 240x240[px] (1:1).
     > [!NOTE]
+    >
     > 1. You can use higher resolution, but we might ask you to resize based on rules
     > 2. You can make a card below recommended/required resolution.
+    >
 * Recommended to use 300[dpi], minimum 90[dpi].
 * Card should *at least* contains 3 (three) text fields/spaces:
   1. **Edition name**, e.g: "School Edition."
