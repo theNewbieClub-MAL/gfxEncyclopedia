@@ -1,11 +1,8 @@
 {
     "cSpell.words": [
-        "DOCSIFY",
         "Installable",
-        "Natsu",
-        "Tadama",
-        "docsifytabs",
-        "bbcode"
+        "bbcode",
+        "Photoshop"
     ],
     "markdownlint.config": {
         "no-inline-html": false,
