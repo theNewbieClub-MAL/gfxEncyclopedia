@@ -51,7 +51,7 @@ and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
 > This website is open-sourced under [MIT](license) License.
 
 <div style="margin:auto;">
-  <a href="https://github.com/nattadasu/tncGfx-Encyclopedia">
+  <a href="https://github.com/theNewbieClub-MAL/gfxEncyclopedia">
     <span class="w3-button w3-round-large w3-github-black">
       <i class="fab fa-github"></i>
       Modify the Site on GitHub

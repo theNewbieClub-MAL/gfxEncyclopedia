@@ -25,8 +25,8 @@ expected to uphold this code. Please report unacceptable behavior to contact@the
 Forking a repository is a simple two-step process. Please follow this instruction below.
 
 1. Navigate back to the repository root
-   ([`nattadasu/tncGfx-Encyclopedia`](https://github.com/nattadasu/tncGfx-Encyclopedia)). You can
-   pass this step if on Desktop.
+   ([`theNewbieClub-MAL/gfxEncyclopedia`](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)).
+   You can pass this step if on Desktop.
 2. In the top-right corner of the page, click Fork.<br/>
    ![Sample](src/forking.png)
 
@@ -84,7 +84,7 @@ We commonly use those for prefix:
 
 Got a great idea or found an issue but can not executing as well, or unfamiliar with Git interface?
 Now, you can relax more because GitHub has a great feature, called
-[GitHub Issue](https://github.com/nattadasu/tncGfx-Encyclopedia/issues). It helps users
+[GitHub Issue](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues). It helps users
 to "interact" developers with 0 knowledge of coding.
 
 You can send us an issue for we can look for it.
@@ -93,8 +93,8 @@ You can send us an issue for we can look for it.
 
 <ol>
   <li>Open
-    <a href="https://github.com/nattadasu/tncGfx-Encyclopedia/issues">
-      nattadasu/tncGfx-Encyclopedia/issues
+    <a href="https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues">
+      theNewbieClub-MAL/gfxEncyclopedia/issues
     </a> and tap on New Issue button.</li>
   <li>In title bar, write:
     <pre><code>Suggestion: &lt;your comment&gt;</code></pre>
@@ -109,8 +109,8 @@ You can send us an issue for we can look for it.
 ### Issuing Problem
 
 <ol>
-  <a href="https://github.com/nattadasu/tncGfx-Encyclopedia/issues">
-      nattadasu/tncGfx-Encyclopedia/issues
+  <a href="https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues">
+      theNewbieClub-MAL/gfxEncyclopedia/issues
     </a> and tap on New Issue button.</li>
   <li>In title bar, write:
     <pre><code>&lt;your comment&gt;</code></pre>
