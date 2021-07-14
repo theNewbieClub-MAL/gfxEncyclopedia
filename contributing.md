@@ -37,7 +37,7 @@ repository need to be forked (see: [Forking repository](#forking-repository)) to
 GitHub account. From your command line:
 
 ```sh
-git clone https://github.com/<YOUR USERNAME>/tncGfx-Encyclopedia
+git clone https://github.com/<YOUR USERNAME>/gfxEncyclopedia
 ```
 
 **Note**<br>
