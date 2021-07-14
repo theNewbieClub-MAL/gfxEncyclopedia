@@ -16,9 +16,6 @@
         "_sidebar.md",
         "_404.md"
     ],
-    "editor.rulers": [
-        80
-    ],
     "prettier.printWidth": 100,
     "prettier.endOfLine": "auto",
     "[markdown]": {
