@@ -58,9 +58,8 @@ deliverer for [The Newbie Club][malClub].
 
 ### Built With
 
-We use [`docsify`](https://docsify.js.org), [`npm`](https://npmjs.com),
-[`markdownlint`](https://github.com/igorshubovych/markdownlint-cli), and
-[Vercel](https://vercel.com) to make it possible.
+We use [`docsify`](https://docsify.js.org), [`npm`](https://npmjs.com), and
+[`markdownlint`](https://github.com/igorshubovych/markdownlint-cli) to make it possible.
 
 <!-- GETTING STARTED -->
 ## Getting Started
