@@ -49,4 +49,4 @@ Here is a list of compiled resources which may help you with your graphic design
 ## Photoshop Tips
 
 * [How to reduce noise in Photoshop
-  ](https://shootdotedit.com/2018/07/how-to-reduce-noise-in-photoshop/)
+](https://shootdotedit.com/blogs/news/how-to-reduce-noise-in-photoshop)
