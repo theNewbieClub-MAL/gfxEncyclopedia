@@ -128,9 +128,10 @@ short verbs like "eye" over longer synonyms like "consider."<sup>[1](#fn1)</sup>
    rules of it:
    * Banner should contains only a text field/space:
      1. **Heading title**, e.g: "Moderators."
-   * Additional text field is allowed as long it related to the subject.
+        * Additional text field is allowed as long it related to the subject.
    * Height of artwork can be one third or half of recommended size.
-2. A-PNG (Animated PNG) can not be used on Discord due to its limitation. Prefer to use GIF instead.
+2. A-PNG (Animated PNG) can not be used on vanilla/pure/unmodified Discord client due to its
+   limitation. Prefer to use GIF instead.
 
 ### Example of Discord banners
 

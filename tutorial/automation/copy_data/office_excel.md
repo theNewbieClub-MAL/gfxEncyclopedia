@@ -2,8 +2,10 @@
 
 ## Download spreadsheet from Google Sheets
 
-1. Obviously, you need to visit the spreadsheet.
-   [Click here to proceed to the spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1TNCAt3rtsANAkYRrxw-k4czSupP7jqyf15OaO7hcZ1E/htmlview#gid=2145879968).
+1. Obviously, you need to visit the spreadsheet. Open
+   [#gfx-chat](https://discord.com/channels/190673217008959488/346020006145818634) channel's
+   description to open spreadsheet.
+   <!-- Why? Cuz there's secret info, and public shouldn't know about this 👀 -->
 
 2. Download the spreadsheet by clicking File > Download As > Microsoft Excel (.xlsx).
 
