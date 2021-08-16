@@ -17,10 +17,10 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.0.8
         with:
-          args: --verbose --no-progress "**/*.md" "**/*.html" --accept 200,204,206 --headers "accept=text/html" --exclude "myanimelist.net/profile/" "deviantart.com" "thenewbieclub.net"
+          args: -v -c "config/lychee.toml" -n "**/*.md" "**/*.html"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        
+
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v3
         with:
