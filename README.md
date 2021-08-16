@@ -72,9 +72,8 @@ Below list things you need to use the software and how to install them.
 
 * `npm`
 
-  ```sh
-  npm install npm@latest -g
-  ```
+* [`lycheeverse/lychee`](https://github.com/lycheeverse/lychee)\
+  Used for link checking.
 
 ### Installation
 
@@ -114,6 +113,29 @@ Below list things you need to use the software and how to install them.
      ```sh
      npm run proofread
      ```
+
+3. Run `lychee`
+
+   ```sh
+   npm run validatelink
+   ```
+
+   or
+
+   ```powershell
+   lychee -v -c "./config/lychee.toml" "**/*.md" "**/*.html"
+   ```
+
+   <!-- markdownlint-disable MD022 MD023 -->
+   #### Warning
+   1. This command probably will check any links available in `node_modules/`, unfortunately
+      `lychee` does not have support to ignore path yet. Use with your own risk.
+      * We will update the instruction when "ignore path" featured to the software.
+   2. You can *bypass* this behavior by moving `node_modules/` directory outside working directory
+      temporarily.
+   3. However, link will also be checked through GitHub Action available on this repo (which does
+      not include `node_modules/` by default.).
+   <!-- markdownlint-enable MD022 MD023 -->
 
 <!-- CONTRIBUTING -->
 ## Contributing
