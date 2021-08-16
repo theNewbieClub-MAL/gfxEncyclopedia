@@ -4,7 +4,8 @@
   "scripts": {
     "host": "docsify serve",
     "lint": "markdownlint **/*.md -c config/markdownlint.yaml -i _404.md -i _sidebar.md -i node_modules",
-    "proofread": "npm run lint && npm run host"
+    "proofread": "npm run lint && npm run host",
+    "validatelink": "lychee -v -c \"./config/lychee.toml\" \"**/*.md\" \"**/*.html\""
   },
   "keywords": [
     "Encyclopedia"
