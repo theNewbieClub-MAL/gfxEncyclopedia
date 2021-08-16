@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 
 Below list things you need to use the software and how to install them.
 
-* `npm`
+* [`npm`](https://www.npmjs.com/)
 
 * [`lycheeverse/lychee`](https://github.com/lycheeverse/lychee)\
   Used for link checking.
