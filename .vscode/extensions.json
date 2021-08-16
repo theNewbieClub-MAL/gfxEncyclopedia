@@ -9,5 +9,7 @@
         "Vtrois.gitmoji-vscode",
         "cschleiden.vscode-github-actions",
         "redhat.vscode-yaml",
+        "IronGeek.vscode-env",
+        "leonidasiiv.google-sheets-equation-syntax-hightlighter"
     ]
 }

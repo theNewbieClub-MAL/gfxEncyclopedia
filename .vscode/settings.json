@@ -24,5 +24,11 @@
         "editor.rulers": [
             100
         ],
+    },
+    "files.associations": {
+        ".env": "env",
+        ".env.example": "env",
+        ".excel-formula": "sheets",
+        ".formula": "sheets"
     }
 }
