@@ -1,15 +1,15 @@
 {
-    "recommendations": [
-        "0x3f3f3f3f.docsifybarautogenerater",
-        "DavidAnson.vscode-markdownlint",
-        "EditorConfig.EditorConfig",
-        "rickvansloten.bbcode",
-        "bierner.markdown-emoji",
-        "wmaurer.change-case",
-        "Vtrois.gitmoji-vscode",
-        "cschleiden.vscode-github-actions",
-        "redhat.vscode-yaml",
-        "IronGeek.vscode-env",
-        "leonidasiiv.google-sheets-equation-syntax-hightlighter"
-    ]
+  "recommendations": [
+    "0x3f3f3f3f.docsifybarautogenerater",
+    "DavidAnson.vscode-markdownlint",
+    "EditorConfig.EditorConfig",
+    "rickvansloten.bbcode",
+    "bierner.markdown-emoji",
+    "wmaurer.change-case",
+    "Vtrois.gitmoji-vscode",
+    "cschleiden.vscode-github-actions",
+    "redhat.vscode-yaml",
+    "IronGeek.vscode-env",
+    "leonidasiiv.google-sheets-equation-syntax-hightlighter"
+  ]
 }

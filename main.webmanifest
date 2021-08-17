@@ -1,20 +1,20 @@
 {
-    "$schema": "./src/webmanifest.schema.json",
-    "name": "TNC GFX Encyclopedia",
-    "short_name": "GFX Enc.",
-    "start_url": "/",
-    "scope": "/",
-    "display": "standalone",
-    "description": "The Newbie Club Official Encyclopedia of Graphics Designing and Delivering",
-    "background_color": "#7378c2",
-    "lang": "en-US",
-    "icons": [
-        {
-            "src": "src/icon_512.png",
-            "type": "image/png",
-            "sizes": "any",
-            "purpose": "maskable any"
-        }
-    ],
-    "theme_color": "#7378c2"
+  "$schema": "./src/webmanifest.schema.json",
+  "name": "TNC GFX Encyclopedia",
+  "short_name": "GFX Enc.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "description": "The Newbie Club Official Encyclopedia of Graphics Designing and Delivering",
+  "background_color": "#7378c2",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "src/icon_512.png",
+      "type": "image/png",
+      "sizes": "any",
+      "purpose": "maskable any"
+    }
+  ],
+  "theme_color": "#7378c2"
 }
