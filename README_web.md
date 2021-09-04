@@ -6,7 +6,7 @@ This site contains different information that will help you in your role as a gr
 and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
 
 <style>
-  .w3-btn,.w3-button {
+  .btn,.button {
     border:none;
     display:inline-block;
     padding:8px 16px;
@@ -19,10 +19,10 @@ and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
     cursor:pointer;
     white-space:nowrap
   }
-  .w3-btn:hover {
+  .btn:hover {
     box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
   }
-  .w3-btn, .w3-button {
+  .btn, .button {
     -webkit-touch-callout:none;
     -webkit-user-select:none;
     -khtml-user-select:none;
@@ -30,10 +30,10 @@ and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
     -ms-user-select:none;
     user-select:none
   }
-  .w3-round-large {
+  .round-large {
     border-radius:8px
   }
-  .w3-github-black, .w3-hover-github-black:hover {
+  .github-black, .hover-github-black:hover {
     color:#fff !important;
     background-color:#24292d !important
   }
@@ -52,7 +52,7 @@ and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
 
 <div style="margin:auto;">
   <a href="https://github.com/theNewbieClub-MAL/gfxEncyclopedia">
-  <span class="w3-button w3-round-large w3-github-black">
+  <span class="button round-large github-black">
     <i class="fab fa-github"></i>
     Modify the Site on GitHub
   </span>
