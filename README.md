@@ -11,11 +11,11 @@
   <!-- Badges -->
   <br />
   <br />
-  <a href="license.md"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"></a>
   <a href="https://myanimelist.net/clubs.php?cid=70668"><img src="https://img.shields.io/badge/Join-MyAnimeList%20Club-blue?style=for-the-badge&logo=myanimelist"></a>
   <a href="https://discord.gg/Q6H6Gf7"><img src="https://img.shields.io/badge/Discord-Q6H6Gf7-white?style=for-the-badge&logo=discord&color=5865F2&logoColor=white"></a>
   <a href="https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues"><img src="https://img.shields.io/badge/Issue-GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="code_of_conduct.md"><img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FtheNewbieClub-MAL%2FgfxEncyclopedia%2FinnerDocumentation%2Fconfig%2Fcc.shield.json"></a>
+  <a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FtheNewbieClub-MAL%2FgfxEncyclopedia%2FinnerDocumentation%2Fconfig%2Fcc.shield.json"></a>
   <!-- Hyperlink, currently not working. OOF -->
   <br />
   <br />

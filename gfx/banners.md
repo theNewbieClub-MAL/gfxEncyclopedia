@@ -169,8 +169,8 @@ short verbs like "eye" over longer synonyms like "consider."<sup>[1](#fn1)</sup>
 </div>
 
 <!--HYPERLINKS-->
-[dpi]: glosarium.md#dots-per-inch-dpi
-[landscape]: glosarium.md#landscape
-[portrait]: glosarium.md#portrait
-[px]: glosarium.md#pixel
-[ratio]: glosarium.md#aspect-ratio
+[dpi]: /glosarium.md#dots-per-inch-dpi
+[landscape]: /glosarium.md#landscape
+[portrait]: /glosarium.md#portrait
+[px]: /glosarium.md#pixel
+[ratio]: /glosarium.md#aspect-ratio

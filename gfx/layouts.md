@@ -28,17 +28,17 @@ matching set of:
 
 ### MAL Club Layout
 
-* Layout only able to make in [portrait](glosarium.md#portrait) orientation.
-* Width of layout should be 733[px](glosarium.md#pixel) in 300[dpi](glosarium.md#dots-per-inch-dpi).
-* Recommended resolution is: 733x1000[px](glosarium.md#pixel).
-* Within layout, should contains [hyperlinks](glosarium.md#hyperlink)/buttons to:
+* Layout only able to make in [portrait](/glosarium.md#portrait) orientation.
+* Width of layout should be 733[px](/glosarium.md#pixel) in 300[dpi](/glosarium.md#dots-per-inch-dpi).
+* Recommended resolution is: 733x1000[px](/glosarium.md#pixel).
+* Within layout, should contains [hyperlinks](/glosarium.md#hyperlink)/buttons to:
   * About us
   * Discord invite link
   * Introductions
   * Staff
   * Recruitment
-  * [Signatures](gfx/signatures.md)
-  * [Banners](gfx/banners.md)
+  * [Signatures](/gfx/signatures.md)
+  * [Banners](/gfx/banners.md)
   * Rules
   * Events
   * FAQ

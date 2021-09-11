@@ -48,7 +48,7 @@ and/or card deliverer for The Newbie Club. Please use the sidebar to navigate.
 > \(<i class="fab fa-discord"></i> {{deputy.discord}}\) if you have any issues or questions.
 
 > [!TIP]
-> This website is open-sourced under [MIT](license) License.
+> This website is open-sourced under [MIT](site-license.md) License.
 
 <div style="margin:auto;">
   <a href="https://github.com/theNewbieClub-MAL/gfxEncyclopedia">

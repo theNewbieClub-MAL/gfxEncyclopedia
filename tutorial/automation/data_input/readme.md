@@ -5,7 +5,7 @@
 > *Hold on… Why do you need to export data to Excel? Why not do this heck on Excel instead?*
 >
 > Have you read the FAQ before? If not, please read it first, so you can understand.
-> [Click here to jump](tutorial/automation/prerequisites/readme.md). Also, we want to export to
+> [Click here to jump](/tutorial/automation/prerequisites/readme.md). Also, we want to export to
 > Excel so we can "convert" it to Adobe Photoshop Data Variable CSV file without facing
 > compatibility issues.
 
@@ -137,7 +137,7 @@
 > textbox) on your PSD. We found an issue where the converter can't process PSD that includes
 > non-rasterized objects. Please read and refer to this:
 > [Known Issues and Workaround-Troubleshooting § Fix Converter Unable to Convert
-> ](tutorial/automation/troubleshooting/photoshop/cant_export.md).
+> ](/tutorial/automation/troubleshooting/photoshop/cant_export.md).
 
 1. Choose `File > Export > Data Sets as Files...`. In the dialog box, select your destination folder
    and file naming options and then click OK to export each data set "record" as an individual
@@ -177,4 +177,4 @@
 > [!TIP]
 > Most of card designer are using `Nickname - #CardNo.png` file hierarchy format. If you are using
 > `Username - #CardNo.png` or `Username/Username - #CardNo.png`, please continue to
-> [rename section](tutorial/automation/rename/readme.md).
+> [rename section](/tutorial/automation/rename/readme.md).
