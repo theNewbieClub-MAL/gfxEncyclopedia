@@ -17,7 +17,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.0.8
         with:
-          args: -v -c "config/lychee.toml" -n "**/*.md" "**/*.html"
+          args: -v -c "config/lychee.toml" -n "**/*.md" "**/*.html" --base
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
