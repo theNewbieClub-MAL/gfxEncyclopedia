@@ -90,12 +90,6 @@ Below list things you need to use the software and how to install them.
    npm install
    ```
 
-4. Run `docsify`
-
-   ```sh
-   npm run host
-   ```
-
 ### Development
 
 1. Check if node dependencies up-to-date
@@ -123,7 +117,7 @@ Below list things you need to use the software and how to install them.
    or
 
    ```powershell
-   lychee -v -c "./config/lychee.toml" "**/*.md" "**/*.html"
+   lychee -v -c "./config/lychee.toml" "**/*.md" "**/*.html" -b .
    ```
 
    <!-- markdownlint-disable MD022 MD023 -->
