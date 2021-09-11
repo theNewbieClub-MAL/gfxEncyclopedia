@@ -11,7 +11,7 @@
   <!-- Badges -->
   <br />
   <br />
-  <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"></a>
   <a href="https://myanimelist.net/clubs.php?cid=70668"><img src="https://img.shields.io/badge/Join-MyAnimeList%20Club-blue?style=for-the-badge&logo=myanimelist"></a>
   <a href="https://discord.gg/Q6H6Gf7"><img src="https://img.shields.io/badge/Discord-Q6H6Gf7-white?style=for-the-badge&logo=discord&color=5865F2&logoColor=white"></a>
   <a href="https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues"><img src="https://img.shields.io/badge/Issue-GitHub-black?style=for-the-badge&logo=github"></a>
