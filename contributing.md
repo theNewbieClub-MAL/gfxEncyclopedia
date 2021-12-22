@@ -6,12 +6,6 @@ The following is a set of guidelines for contributing to GFX Encyclopedia. These
 guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in
 a pull request.
 
-## Notice
-
-This contribution guideline taken from modified
-[Ryuuganime Contribution Guidelines](https://github.com/ryuuganime/contributing) under
-[Creative Commmons Zero v1.0 International](https://github.com/ryuuganime/contributing/blob/main/LICENSE).
-
 ## Code of conduct
 
 This project and everyone participating in it is governed by the
