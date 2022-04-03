@@ -29,3 +29,8 @@ exclude_link_local = true
 
 # Exclude all mail addresses from checking
 exclude_mail = false
+
+# Exclude URLs contained in a file from checking
+exclude_file = [
+    "node_modules/**"
+]
